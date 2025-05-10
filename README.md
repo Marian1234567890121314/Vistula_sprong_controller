@@ -27,5 +27,10 @@ Displays a sample paragraph and loads the image from /static/Vistula.jpg
 Examples of code and webpage how programm works:
 ![image](https://github.com/user-attachments/assets/ce24a2a5-c5c5-4aca-a27b-74b65f94c998)
 
+if name enterend
 ![image](https://github.com/user-attachments/assets/da765415-c219-4791-af17-31cfe9f84cfe)
+
+If name not entered
+![image](https://github.com/user-attachments/assets/aef6e7c8-eb25-422f-b6b9-42544702eb15)
+
 
