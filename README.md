@@ -22,3 +22,10 @@ If no name is provided, it defaults to "World"
 It’s a Thymeleaf template
 Displays a sample paragraph and loads the image from /static/Vistula.jpg
 ![image](https://github.com/user-attachments/assets/d51f916d-f027-495d-b3aa-0b6fbe7ef63d)
+
+
+Examples of code and webpage how programm works:
+![image](https://github.com/user-attachments/assets/ce24a2a5-c5c5-4aca-a27b-74b65f94c998)
+
+![image](https://github.com/user-attachments/assets/da765415-c219-4791-af17-31cfe9f84cfe)
+
